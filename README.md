@@ -48,8 +48,8 @@ print(f"Variance is : {var}")
 ```
 # Calculation:
 
-![image](https://github.com/user-attachments/assets/0f310b8c-ec09-47b2-9046-a881a034ef01)
-![image](https://github.com/user-attachments/assets/0b7440b5-4f02-4a48-8570-84c828171e8d)
+![dc exp-2 image -1](https://github.com/user-attachments/assets/69826495-fe3c-4b39-9fb9-b5f8b68e5b27)
+![dc exp-2 image -2](https://github.com/user-attachments/assets/eb7cba00-b467-4a0d-a8dd-6c60453cf162)
 
 # Output
 
